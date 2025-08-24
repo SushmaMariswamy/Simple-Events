@@ -1,10 +1,4 @@
 <?php
-/*
-Plugin Name: Simple Events Manager (Grid + Meta Box)
-Description: A custom plugin to manage events with a grid/card display and Event Details meta box.
-Version: 1.2
-Author: ChatGPT
-*/
 
 if ( ! defined( 'ABSPATH' ) ) exit;
 
